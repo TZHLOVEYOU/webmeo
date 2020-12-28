@@ -1,0 +1,221 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="aa964068-76e6-45fb-aa13-b78e1b589c03" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="mybatis-config" />
+        <option value="mybatis-mapper" />
+        <option value="Interface" />
+        <option value="spring-beans.schema" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="localRepository" value="$MAVEN_REPOSITORY$" />
+        <option name="mavenHome" value="$PROJECT_DIR$/../../java/apache-maven-3.6.3" />
+        <option name="userSettingsFile" value="$PROJECT_DIR$/../../java/apache-maven-3.6.3/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+  </component>
+  <component name="ProjectId" id="1kzJ1W4ENifd3ooMxpVTTlB94Bx" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../mybatis_study" />
+    <property name="node.js.detected.package.eslint" value="true" />
+    <property name="node.js.detected.package.tslint" value="true" />
+    <property name="node.js.path.for.package.eslint" value="project" />
+    <property name="node.js.path.for.package.tslint" value="project" />
+    <property name="node.js.selected.package.eslint" value="(autodetect)" />
+    <property name="node.js.selected.package.tslint" value="(autodetect)" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.1908046" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RebelAgentSelection">
+    <selection>jr</selection>
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/ch21/src/main/java/edu/nf/ch21" />
+      <recent name="$PROJECT_DIR$/ch18/src/main/java/edu/nf/ch18" />
+      <recent name="$PROJECT_DIR$/aaa/src/main/java/edu/nf/demo" />
+    </key>
+  </component>
+  <component name="RunManager" selected="JUnit.TaskTest.testTask (1)">
+    <configuration name="EventTest.testEvent" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.nf.ch19.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.nf.ch19.test" />
+      <option name="MAIN_CLASS_NAME" value="edu.nf.ch19.test.EventTest" />
+      <option name="METHOD_NAME" value="testEvent" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="EventTest.testEvent2" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch19" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.nf.ch19.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.nf.ch19.test" />
+      <option name="MAIN_CLASS_NAME" value="edu.nf.ch19.test.EventTest" />
+      <option name="METHOD_NAME" value="testEvent2" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SpringTest.testAop (2)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch18" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.nf.ch18.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.nf.ch18.test" />
+      <option name="MAIN_CLASS_NAME" value="edu.nf.ch18.test.SpringTest" />
+      <option name="METHOD_NAME" value="testAop" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest.testTask (1)" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch21" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.nf.ch21.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.nf.ch21.test" />
+      <option name="MAIN_CLASS_NAME" value="edu.nf.ch21.test.TaskTest" />
+      <option name="METHOD_NAME" value="testTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="TaskTest.testTask" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="ch20" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="edu.nf.ch20.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="edu.nf.ch20.test" />
+      <option name="MAIN_CLASS_NAME" value="edu.nf.ch20.test.TaskTest" />
+      <option name="METHOD_NAME" value="testTask" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="JUnit.TaskTest.testTask (1)" />
+        <item itemvalue="JUnit.TaskTest.testTask" />
+        <item itemvalue="JUnit.EventTest.testEvent2" />
+        <item itemvalue="JUnit.EventTest.testEvent" />
+        <item itemvalue="JUnit.SpringTest.testAop (2)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" BundledDictionaries="0" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" Dictionaries="0" CorrectionsLimit="5" DefaultDictionary="application-level" UseSingleDictionary="true" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="aa964068-76e6-45fb-aa13-b78e1b589c03" name="Default Changelist" comment="" />
+      <created>1606697271911</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1606697271911</updated>
+      <workItem from="1606697273002" duration="7023000" />
+      <workItem from="1606705897891" duration="82000" />
+      <workItem from="1606782778106" duration="9957000" />
+      <workItem from="1606868877473" duration="11121000" />
+      <workItem from="1606891347841" duration="45000" />
+      <workItem from="1606891485197" duration="74000" />
+      <workItem from="1606891605203" duration="170000" />
+      <workItem from="1606892548046" duration="6000" />
+      <workItem from="1606892598786" duration="70000" />
+      <workItem from="1606892792615" duration="41000" />
+      <workItem from="1606892850100" duration="33000" />
+      <workItem from="1606892910258" duration="2441000" />
+      <workItem from="1606951167439" duration="100000" />
+      <workItem from="1606955973359" duration="11968000" />
+      <workItem from="1606981138751" duration="2359000" />
+      <workItem from="1607041530065" duration="6991000" />
+      <workItem from="1607066844326" duration="33000" />
+      <workItem from="1607066901593" duration="49000" />
+      <workItem from="1607252119546" duration="324000" />
+      <workItem from="1607252468173" duration="1059000" />
+      <workItem from="1607301089908" duration="7450000" />
+      <workItem from="1607322453442" duration="2400000" />
+      <workItem from="1607387775934" duration="11515000" />
+      <workItem from="1607414244696" duration="79000" />
+      <workItem from="1607474997778" duration="8253000" />
+      <workItem from="1607483660605" duration="2050000" />
+      <workItem from="1608031874801" duration="98000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="2" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="463" y="118" key="FileChooserDialogImpl" timestamp="1608031966625">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="118" key="FileChooserDialogImpl/0.0.1366.728@0.0.1366.728" timestamp="1608031966625" />
+    <state width="1323" height="293" key="GridCell.Tab.0.bottom" timestamp="1607484514701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="293" key="GridCell.Tab.0.bottom/0.0.1366.728@0.0.1366.728" timestamp="1607484514701" />
+    <state width="1323" height="293" key="GridCell.Tab.0.center" timestamp="1607484514700">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="293" key="GridCell.Tab.0.center/0.0.1366.728@0.0.1366.728" timestamp="1607484514700" />
+    <state width="1323" height="293" key="GridCell.Tab.0.left" timestamp="1607484514700">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="293" key="GridCell.Tab.0.left/0.0.1366.728@0.0.1366.728" timestamp="1607484514700" />
+    <state width="1323" height="293" key="GridCell.Tab.0.right" timestamp="1607484514701">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="293" key="GridCell.Tab.0.right/0.0.1366.728@0.0.1366.728" timestamp="1607484514701" />
+  </component>
+</project>
